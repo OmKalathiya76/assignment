@@ -1,0 +1,31 @@
+1. Mean of Column Data,1190.316392
+2. Median of Column Data,844
+3 - Variance,994903.7843
+Standard Deviation,997.4486374
+Standard Error,2.767702471
+4. Decide the Shape of Distribution,Mean > Median  Distribution is Right Skewed 
+5. Find Outliers,"IQR = Q3 - Q1
+IQR = 1744 - 414 = 1330"
+,"Lower Fence = Q1 - (1.5 × IQR)
+= 414 - (1.5 × 1330)
+= 414 - 1995
+= -1581"
+,"Upper Fence = Q3 + (1.5 × IQR)
+= 1744 + 1995
+= 3739"
+6. Graph the Column Data and Comment,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+7.Boxplot,
